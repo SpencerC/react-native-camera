@@ -1,0 +1,3 @@
+[submodule "zxing"]
+	path = zxing
+	url = https://spencerc@github.com/SpencerC/zxing.git
